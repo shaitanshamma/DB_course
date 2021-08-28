@@ -1,0 +1,1 @@
+mysqldump -w"1 limit 100" mysql help_keyword > test.sql
